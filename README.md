@@ -76,9 +76,9 @@ Verified certifications from:
 
 Let’s connect!
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)  
+- 📧 Email: [swadeshchhetri65@gmail.com](mailto:swadeshchhetri65@gmail.com)  
 - 💼 LinkedIn: [Swadesh Chhetri](https://www.linkedin.com/in/swadeshchhetri)  
-- 📄 Resume: [Download Here](https://your-resume-link.com)
+- 📄 Resume: [Download Here](https://drive.google.com/file/d/19gcD2RW1wS569edx2GPDs-YO1AAIuB3P/view?usp=sharing)
 
 ---
 
