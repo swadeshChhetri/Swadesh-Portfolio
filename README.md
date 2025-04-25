@@ -82,11 +82,3 @@ Let’s connect!
 
 ---
 
-## 📸 Preview
-
-> *(Optional: Add image previews of your portfolio UI)*
-
-```markdown
-![Homepage Screenshot](./public/screenshot-home.png)
-![Projects Section](./public/screenshot-projects.png)
-
