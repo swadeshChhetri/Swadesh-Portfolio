@@ -51,7 +51,7 @@ Tools and technologies I work with:
 
 - Frontend: HTML, CSS, JavaScript, React, Next.js
 - Backend: PHP, MySQL, Laravel
-- Styling: Tailwind CSS, Sass
+- Styling: Tailwind CSS
 - Animations: Framer Motion
 - Others: Git, Figma, Postman
 
