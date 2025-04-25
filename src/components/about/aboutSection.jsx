@@ -55,7 +55,7 @@ const AboutSection = () => {
             </p>
 
             <a
-              className="btn"
+              className="btnn"
               href="https://drive.google.com/file/d/19gcD2RW1wS569edx2GPDs-YO1AAIuB3P/view?usp=sharing"
             >
               Resume
