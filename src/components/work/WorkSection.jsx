@@ -49,23 +49,11 @@ const ProjectSection = () => {
           data-aos="fade-down"
           data-aos-duration="1500"
         >
-          <img src="img/dashboard.jpg" alt=" " />
+          <img src="img/finance.png" alt=" " />
           <div className="project-layer">
             <h4>Finance-Management-Portal</h4>
-            <p>
-              Email ID : swadesh806@gmail.com <br />
-              Password : swadesh@806 <br />
-              Internship Project – A real-world project showcasing functional development
-            </p>
-            
-            <a
-              href="https://crisscrosstamizh.in/WDI-OCT-24/fmp/FinancialManagementSystem/Pages/login.html"
-              className="bi bi-box-arrow-up-right"
-              style={{ fontSize: "18px", textDecoration: "none" }}
-            ></a>
-            <p>Responsive Design Demo – Highlights my responsive design expertise</p>
               <a
-              href="https://swadeshchhetri.github.io/FinanceManagementPortal/index.html"
+              href="https://www.tradesfairs.com/financeportal"
               className="bi bi-box-arrow-up-right"
               style={{ fontSize: "18px", textDecoration: "none" }}
             ></a>
@@ -96,7 +84,7 @@ const ProjectSection = () => {
           data-aos="fade-down"
           data-aos-duration="1500"
         >
-          <img src="img/indtecexpo.png" alt=" " />
+          <img src="img/expo.png" alt=" " />
           <div className="project-layer">
             <h4>INDTECEXPO</h4>
             <p></p>
