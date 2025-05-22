@@ -9,7 +9,6 @@ const ProjectSection = () => {
         Featured<span> Work</span>
       </h2>
       <div className="project-container">
-
         <div
           className="project-box"
           data-aos="fade-down"
@@ -18,9 +17,26 @@ const ProjectSection = () => {
           <img src="img/airesume.png" alt="" />
           <div className="project-layer">
             <h4>AI Resume Shortlisting Bot</h4>
-            <p></p>
+            <p>NextJS - NestJS - Google Gemini</p>
             <a
               href="https://resume-analyzer-app.vercel.app/"
+              className="bi bi-box-arrow-up-right"
+              style={{ fontSize: "18px", textDecoration: "none" }}
+            ></a>
+          </div>
+        </div>
+
+        <div
+          className="project-box"
+          data-aos="fade-down"
+          data-aos-duration="1500"
+        >
+          <img src="img/crud.png" alt="" />
+          <div className="project-layer">
+            <h4>UserFlow Manager</h4>
+            <p>React - NodeJS - ExpressJS - MongoDB</p>
+            <a
+              href="user-crud-sooty.vercel.app"
               className="bi bi-box-arrow-up-right"
               style={{ fontSize: "18px", textDecoration: "none" }}
             ></a>
@@ -35,7 +51,7 @@ const ProjectSection = () => {
           <img src="img/QuickCart.png" alt=" " />
           <div className="project-layer">
             <h4>QuickCart</h4>
-            <p></p>
+            <p>Html - CSS - JavaScript</p>
             <a
               href="https://swadeshchhetri.github.io/QuickCart/"
               className="bi bi-box-arrow-up-right"
@@ -52,12 +68,13 @@ const ProjectSection = () => {
           <img src="img/finance.png" alt=" " />
           <div className="project-layer">
             <h4>Finance-Management-Portal</h4>
-              <a
+            <p>Html - TailwindCSS - JavaScript </p>
+            <p style={{ textAlign: 'center' }}>PHP - MySQL</p>
+            <a
               href="https://www.tradesfairs.com/financeportal"
               className="bi bi-box-arrow-up-right"
               style={{ fontSize: "18px", textDecoration: "none" }}
             ></a>
-
           </div>
         </div>
 
@@ -70,7 +87,7 @@ const ProjectSection = () => {
           <img src="img/konnektglobe.png" alt="" />
           <div className="project-layer">
             <h4>KonnektGlobe</h4>
-            <p></p>
+            <p>NextJS - TailwindCSS - Laravel - MySQL</p>
             <a
               href="https://konnektglobe.vercel.app/"
               className="bi bi-box-arrow-up-right"
@@ -87,7 +104,7 @@ const ProjectSection = () => {
           <img src="img/expo.png" alt=" " />
           <div className="project-layer">
             <h4>INDTECEXPO</h4>
-            <p></p>
+            <p>Nextjs - TailwindCSS - Laravel - MySQL</p>
             <a
               href="https://indtecexpo.vercel.app/"
               className="bi bi-box-arrow-up-right"
@@ -104,6 +121,7 @@ const ProjectSection = () => {
           <img src="img/jaguar.png" alt=" " />
           <div className="project-layer">
             <h4>Jaguar Media & Entertainment </h4>
+            <p>Next.js - TailwindCSS</p>
             <a
               href="https://jaguarmedia.vercel.app/"
               className="bi bi-box-arrow-up-right"
@@ -111,7 +129,6 @@ const ProjectSection = () => {
             ></a>
           </div>
         </div>
-
 
         <div
           className="project-box"
@@ -121,7 +138,7 @@ const ProjectSection = () => {
           <img src="img/todo.png" alt=" " />
           <div className="project-layer">
             <h4>ToDo-list App</h4>
-
+             <p>Html - CSS - JavaScript</p>
             <a
               href="https://swadeshchhetri.github.io/Todo-list/"
               className="bi bi-box-arrow-up-right"
@@ -138,6 +155,7 @@ const ProjectSection = () => {
           <img src="img/Calculator.png" alt=" " />
           <div className="project-layer">
             <h4>Calculator</h4>
+            <p>Html - CSS - JavaScript</p>
             <a
               href="https://swadeshchhetri.github.io/Calculator/"
               className="bi bi-box-arrow-up-right"
@@ -154,6 +172,7 @@ const ProjectSection = () => {
           <img src="img/connect4.png" alt=" " />
           <div className="project-layer">
             <h4>Connect4</h4>
+            <p>Html - CSS - JavaScript</p>
             <a
               href="https://swadeshchhetri.github.io/Connect4/"
               className="bi bi-box-arrow-up-right"
@@ -161,7 +180,6 @@ const ProjectSection = () => {
             ></a>
           </div>
         </div>
-
       </div>
     </section>
   );

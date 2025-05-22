@@ -9,7 +9,7 @@ const ExpertiseSection = () => {
         Skill<span> Expertise</span>
       </h2>
 
-      <div className="expertises-container grid grid-cols-4 gap-4">
+      <div className="expertises-container grid grid-cols-6 gap-4">
         {/* Step 1: Core Frontend Technologies */}
         <div
           className="expertise-box"
@@ -71,6 +71,40 @@ const ExpertiseSection = () => {
         >
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
         </div>
+
+        <div
+          className="expertise-box text-black"
+          data-aos="flip-right"
+          data-aos-duration="1500"
+        >
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+        </div>
+
+        <div
+          className="expertise-box text-black"
+          data-aos="flip-right"
+          data-aos-duration="1500"
+        >
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
+        </div>
+
+        <div
+          className="expertise-box text-black"
+          data-aos="flip-right"
+          data-aos-duration="1500"
+        >
+          <img src="https://nestjs.com/img/logo-small.svg"/>
+        </div>
+
+        <div
+          className="expertise-box text-black"
+          data-aos="flip-right"
+          data-aos-duration="1500"
+        >
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+        </div>
+
+
         <div
           className="expertise-box"
           data-aos="flip-right"
@@ -78,6 +112,15 @@ const ExpertiseSection = () => {
         >
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
         </div>
+
+        <div
+          className="expertise-box"
+          data-aos="flip-right"
+          data-aos-duration="1500"
+        >
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" />
+        </div>
+
         <div
           className="expertise-box"
           data-aos="flip-left"
