@@ -15,12 +15,12 @@ const ProjectSection = () => {
           data-aos="fade-down"
           data-aos-duration="1500"
         >
-          <img src="img/E-BookStore.png" alt="" />
+          <img src="img/airesume.png" alt="" />
           <div className="project-layer">
-            <h4>E-BookStore</h4>
+            <h4>AI Resume Shortlisting Bot</h4>
             <p></p>
             <a
-              href="https://swadeshchhetri.github.io/E_BookStore/"
+              href="https://resume-analyzer-app.vercel.app/"
               className="bi bi-box-arrow-up-right"
               style={{ fontSize: "18px", textDecoration: "none" }}
             ></a>
