@@ -35,11 +35,33 @@ const ProjectSection = () => {
           <div className="project-layer">
             <h4>UserFlow Manager</h4>
             <p>React - NodeJS - ExpressJS - MongoDB</p>
+            <div className="project-links">
             <a
-              href="user-crud-sooty.vercel.app"
+              href="https://user-crud-sooty.vercel.app/"
               className="bi bi-box-arrow-up-right"
               style={{ fontSize: "18px", textDecoration: "none" }}
             ></a>
+
+            {/* GitHub Repo */}
+            <a
+              href="https://github.com/swadeshChhetri/User_Crud"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white text-xl hover:text-blue-400 transition"
+              title="GitHub Repository"
+            >
+              <i className="bi bi-github"></i>
+            </a>
+            <a
+              href="https://github.com/swadeshChhetri/User_Crud_Backend"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white text-xl hover:text-blue-400 transition"
+              title="GitHub Repository"
+            >
+              <i className="bi bi-github"></i>
+            </a>
+            </div>
           </div>
         </div>
 
@@ -52,11 +74,24 @@ const ProjectSection = () => {
           <div className="project-layer">
             <h4>QuickCart</h4>
             <p>Html - CSS - JavaScript</p>
-            <a
-              href="https://swadeshchhetri.github.io/QuickCart/"
-              className="bi bi-box-arrow-up-right"
-              style={{ fontSize: "18px", textDecoration: "none" }}
-            ></a>
+            <div className="project-links">
+              <a
+                href="https://swadeshchhetri.github.io/QuickCart/"
+                className="bi bi-box-arrow-up-right"
+                style={{ fontSize: "18px", textDecoration: "none" }}
+              ></a>
+
+              {/* GitHub Repo */}
+              <a
+                href="https://github.com/swadeshChhetri/QuickCart"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white text-xl hover:text-blue-400 transition"
+                title="GitHub Repository"
+              >
+                <i className="bi bi-github"></i>
+              </a>
+            </div>
           </div>
         </div>
 
@@ -69,12 +104,25 @@ const ProjectSection = () => {
           <div className="project-layer">
             <h4>Finance-Management-Portal</h4>
             <p>Html - TailwindCSS - JavaScript </p>
-            <p style={{ textAlign: 'center' }}>PHP - MySQL</p>
-            <a
-              href="https://www.tradesfairs.com/financeportal"
-              className="bi bi-box-arrow-up-right"
-              style={{ fontSize: "18px", textDecoration: "none" }}
-            ></a>
+            <p style={{ textAlign: "center" }}>PHP - MySQL</p>
+            <div className="project-links">
+              <a
+                href="https://indtecexpo.vercel.app/"
+                className="bi bi-box-arrow-up-right"
+                style={{ fontSize: "18px", textDecoration: "none" }}
+              ></a>
+
+              {/* GitHub Repo */}
+              <a
+                href="https://github.com/swadeshChhetri/financePortal"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white text-xl hover:text-blue-400 transition"
+                title="GitHub Repository"
+              >
+                <i className="bi bi-github"></i>
+              </a>
+            </div>
           </div>
         </div>
 
@@ -88,11 +136,33 @@ const ProjectSection = () => {
           <div className="project-layer">
             <h4>KonnektGlobe</h4>
             <p>NextJS - TailwindCSS - Laravel - MySQL</p>
-            <a
-              href="https://konnektglobe.vercel.app/"
-              className="bi bi-box-arrow-up-right"
-              style={{ fontSize: "18px", textDecoration: "none" }}
-            ></a>
+            <div className="project-links">
+              <a
+                href="https://konnektglobe.vercel.app/auth"
+                className="bi bi-box-arrow-up-right"
+                style={{ fontSize: "18px", textDecoration: "none" }}
+              ></a>
+
+              {/* GitHub Repo */}
+              <a
+                href="https://github.com/swadeshChhetri/konnektglobe"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white text-xl hover:text-blue-400 transition"
+                title="GitHub Repository"
+              >
+                <i className="bi bi-github"></i>
+              </a>
+              <a
+                href="https://github.com/swadeshChhetri/konnektglob_backend"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white text-xl hover:text-blue-400 transition"
+                title="GitHub Repository"
+              >
+                <i className="bi bi-github"></i>
+              </a>
+            </div>
           </div>
         </div>
 
@@ -102,14 +172,58 @@ const ProjectSection = () => {
           data-aos-duration="1500"
         >
           <img src="img/expo.png" alt=" " />
-          <div className="project-layer">
+          <div className="project-layer ">
             <h4>INDTECEXPO</h4>
             <p>Nextjs - TailwindCSS - Laravel - MySQL</p>
+
+            <div className="project-links">
+              <a
+                href="https://indtecexpo.vercel.app/"
+                className="bi bi-box-arrow-up-right"
+                style={{ fontSize: "18px", textDecoration: "none" }}
+              ></a>
+
+              {/* GitHub Repo */}
+              <a
+                href="https://github.com/swadeshChhetri/indtecexpo"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white text-xl hover:text-blue-400 transition"
+                title="GitHub Repository"
+              >
+                <i className="bi bi-github"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div
+          className="project-box"
+          data-aos="fade-down"
+          data-aos-duration="1500"
+        >
+          <img src="img/E-Book.png" alt=" " />
+          <div className="project-layer">
+            <h4>E-Bookstore </h4>
+            <p>React - Redux - Bootstrap</p>
+            <div className="project-links">
             <a
-              href="https://indtecexpo.vercel.app/"
+              href="https://swadeshchhetri.github.io/E_BookStore/"
               className="bi bi-box-arrow-up-right"
               style={{ fontSize: "18px", textDecoration: "none" }}
             ></a>
+
+            {/* GitHub Repo */}
+            <a
+              href="https://github.com/swadeshChhetri/E_BookStore"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white text-xl hover:text-blue-400 transition"
+              title="GitHub Repository"
+            >
+              <i className="bi bi-github"></i>
+            </a>
+            </div>
           </div>
         </div>
 
@@ -122,11 +236,24 @@ const ProjectSection = () => {
           <div className="project-layer">
             <h4>Jaguar Media & Entertainment </h4>
             <p>Next.js - TailwindCSS</p>
+            <div className="project-links">
             <a
               href="https://jaguarmedia.vercel.app/"
               className="bi bi-box-arrow-up-right"
               style={{ fontSize: "18px", textDecoration: "none" }}
             ></a>
+
+            {/* GitHub Repo */}
+            <a
+              href="https://github.com/swadeshChhetri/jaguarmedia"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white text-xl hover:text-blue-400 transition"
+              title="GitHub Repository"
+            >
+              <i className="bi bi-github"></i>
+            </a>
+            </div>
           </div>
         </div>
 
@@ -138,12 +265,25 @@ const ProjectSection = () => {
           <img src="img/todo.png" alt=" " />
           <div className="project-layer">
             <h4>ToDo-list App</h4>
-             <p>Html - CSS - JavaScript</p>
+            <p>Html - CSS - JavaScript</p>
+            <div className="project-links">
             <a
               href="https://swadeshchhetri.github.io/Todo-list/"
               className="bi bi-box-arrow-up-right"
               style={{ fontSize: "18px", textDecoration: "none" }}
             ></a>
+
+            {/* GitHub Repo */}
+            <a
+              href="https://github.com/swadeshChhetri/Todo-list"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white text-xl hover:text-blue-400 transition"
+              title="GitHub Repository"
+            >
+              <i className="bi bi-github"></i>
+            </a>
+            </div>
           </div>
         </div>
 
@@ -156,11 +296,24 @@ const ProjectSection = () => {
           <div className="project-layer">
             <h4>Calculator</h4>
             <p>Html - CSS - JavaScript</p>
+            <div className="project-links">
             <a
               href="https://swadeshchhetri.github.io/Calculator/"
               className="bi bi-box-arrow-up-right"
               style={{ fontSize: "18px", textDecoration: "none" }}
             ></a>
+
+            {/* GitHub Repo */}
+            <a
+              href="https://github.com/swadeshChhetri/Calculator"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white text-xl hover:text-blue-400 transition"
+              title="GitHub Repository"
+            >
+              <i className="bi bi-github"></i>
+            </a>
+            </div>
           </div>
         </div>
 
@@ -173,11 +326,24 @@ const ProjectSection = () => {
           <div className="project-layer">
             <h4>Connect4</h4>
             <p>Html - CSS - JavaScript</p>
+            <div className="project-links">
             <a
               href="https://swadeshchhetri.github.io/Connect4/"
               className="bi bi-box-arrow-up-right"
               style={{ fontSize: "18px", textDecoration: "none" }}
             ></a>
+
+            {/* GitHub Repo */}
+            <a
+              href="https://github.com/swadeshChhetri/Connect4"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white text-xl hover:text-blue-400 transition"
+              title="GitHub Repository"
+            >
+              <i className="bi bi-github"></i>
+            </a>
+            </div>
           </div>
         </div>
       </div>
