@@ -202,7 +202,7 @@ const ProjectSection = () => {
           data-aos="fade-down"
           data-aos-duration="1500"
         >
-          <img src="img/E-Book.png" alt=" " />
+          <img src="img/E-BookStore.png" alt=" " />
           <div className="project-layer">
             <h4>E-Bookstore </h4>
             <p>React - Redux - Bootstrap</p>
